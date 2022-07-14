@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/offline-todo-react/static/css/main.a1bf4459.css",
+    "main.js": "/offline-todo-react/static/js/main.e0bd45a3.js",
+    "static/js/787.8019a364.chunk.js": "/offline-todo-react/static/js/787.8019a364.chunk.js",
+    "index.html": "/offline-todo-react/index.html",
+    "main.a1bf4459.css.map": "/offline-todo-react/static/css/main.a1bf4459.css.map",
+    "main.e0bd45a3.js.map": "/offline-todo-react/static/js/main.e0bd45a3.js.map",
+    "787.8019a364.chunk.js.map": "/offline-todo-react/static/js/787.8019a364.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1bf4459.css",
+    "static/js/main.e0bd45a3.js"
+  ]
+}
