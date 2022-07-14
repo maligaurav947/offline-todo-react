@@ -1,0 +1,41 @@
+
+body{
+ display: grid;
+ place-content: center;
+ background-color: whitesmoke;
+}
+.app-form,.tasklist {
+display: grid;
+place-content: center;
+}
+.app-form input{
+ width: 450px;
+ height: 35px;
+ border: none;
+ outline: none;
+ background-color: whitesmoke;
+ border-bottom: 2px solid black;
+ padding: 0 0.5em ;
+}
+.tasklist{
+ margin: 1em 0 2em;
+
+}
+.tasklist *{
+text-transform: capitalize;
+ text-align: center;
+width: 400px;
+margin: 0.5em 0;
+background-color: white;
+}
+.reset-btn{
+ position: absolute;
+ right: 0;
+ top: 0;
+ width: 220px;
+ height: 55px;
+ background-color: white;
+ border: none;
+ margin: 0.5em 0.5em 0 0;
+ cursor: pointer;
+}
